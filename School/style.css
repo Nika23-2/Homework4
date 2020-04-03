@@ -1,0 +1,62 @@
+.siz1{
+    width: 1220px;
+    border: solid 1px;
+    height: auto;
+    margin-left: 100px;
+}
+.siz2{
+    background: linear-gradient( 90deg,white, rgb(114, 77, 216));
+}
+.siz3{
+    background-color: #808080;
+    height: 20px;
+    width: 810px;
+}
+.siz4{
+    width: 410px;
+    height: 60px;
+}
+.siz5{
+    height: 60px;
+    width: 810px;
+    padding-left: 200px;
+    text-align: left;
+    padding-top: 20px;
+}
+.siz6{
+    width: 2000px;
+    height: auto;
+    border: solid 1px;
+}
+.siz7{
+    width: auto;
+    border: dotted 1px;
+    background:#808080;
+}
+.siz8{
+    width: 1220px;
+
+}
+.siz9{
+    padding: 20px;
+    height: auto;
+}
+.siz10{
+    background-color: #80808f;
+    border: solid 1.5px;
+    width: 1220px;
+    height: 50px;
+    text-align: center;
+}
+.fon1{
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: blueviolet;
+}
+.fon2{
+    font-size: 1em;
+}
+.fon3{
+    font-size: 0.75em;
+    text-align: top;
+}
